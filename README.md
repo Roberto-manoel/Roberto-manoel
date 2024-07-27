@@ -1,24 +1,12 @@
-# Roberto Manuel de Araujo
+## Olá! Meu nome é Roberto Manuel de Araújo, e sou um entusiasta da programação. 
 
-## About Me
-Hello! My name is Roberto Manuel de Araujo, and I am a highly skilled and motivated Python programmer with experience in web development. My goal is to utilize my expertise to create innovative and user-friendly websites and applications. I am committed to delivering high-quality products that exceed client expectations and contribute to their business success.
+Há três anos, mergulhei no mundo do desenvolvimento de software e venho aprendendo constantemente.
 
-## Professional Experience
-- Developed and implemented responsive web design solutions, optimizing user experience and accessibility using HTML, CSS, and JavaScript.
-- Conducted thorough testing and debugging to identify and resolve any issues, ensuring high-quality deliverables within agreed-upon deadlines.
+### Paixão pela Tecnologia
+Minha jornada tem sido repleta de desafios e conquistas. Desde os primeiros passos com Python até explorar frameworks como Django, estou sempre empolgado em aprender e aplicar novos conhecimentos.
 
-## Skills
-- HTML/CSS: Professional
-- JavaScript: Professional
-- Python: Professional
+### Hobbies e Interesses
+Nas minhas horas vagas, sou um ávido leitor de livros sobre tecnologia e programação. Acredito que o conhecimento é a chave para o crescimento contínuo. Além disso, mantenho um canal no YouTube onde compartilho tutoriais e dicas relacionadas à programação, smartphones, computadores e outras curiosidades tecnológicas.
 
-## Personal Information
-- Age: 30 years
-- Address: Rua Augusto Cavalcante, 434, Jaguaribe, Escada/PE
-- Phone: (81) 9.9242-3876
-- Email: roberto.programadortech@gmail.com
-- inkedIn: [Roberto Manuel on LinkedIn](https://www.linkedin.com/in/roberto-manuel-ab5524251)
-- YouTube: [RB Tecnologia on YouTube](https://youtube.com/@rbtecnologia774?si=kEBQ9539oF6Kaphf)
-
-## Objective
-I am seeking an opportunity to work in a company that values professional and personal growth, offers challenges, and recognizes achievements.
+### Busca por Valorização
+Estou em busca de uma empresa que valorize meu trabalho, reconhecendo minha dedicação e habilidades. Se você está procurando um desenvolvedor comprometido e apaixonado, estou à disposição para contribuir com sua equipe!
